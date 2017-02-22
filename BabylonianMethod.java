@@ -10,8 +10,8 @@ public class BabylonianMethod {
 	 x = kb.nextDouble();
 	 System.out.print("Enter how much error you are going to tolerate:");
 	 error = kb.nextDouble();
-	 System.out.println("Enter your intial guess:");
-	 initalGuess = kb.nextDouble();
+	// System.out.println("Enter your intial guess:");
+	// initalGuess = kb.nextDouble();
 	 
 	 
 	 double diff = x - (initalGuess*initalGuess);
